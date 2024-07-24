@@ -30,11 +30,12 @@
 > - [📂 Repository Structure](#-repository-structure)
 > - [🧩 Modules](#-modules)
 > - [   Imge Architecture](#imge-architecture)
-> - [🚀 Getting Started]()
->   - [⚙️ Installation]()
->   - [🤖 Running AMBA _3&4_ APB Protocol]()
-> - [🤝 Contributing]()
-> - [👏 Acknowledgments]()
+> - [🚀 Getting Started](#-getting-started)
+>   - [⚙️ Installation](#installation)
+>   - [🤖 Running AMBA _3&4_ APB Protocol](#running-amba-34-apb-protocol)
+> - [🤝 Contributing](#-contributing)
+> - [👏 Acknowledgments](#-acknowledgments)
+> - [Contact info](#contact-info)
 
 ---
 
