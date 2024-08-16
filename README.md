@@ -25,21 +25,21 @@
 
 ## 🔗 Quick Links
 
-> - [📍 Overview](#-overview)
-> - [📦 Features](#-features)
-> - [📂 Repository Structure](#-repository-structure)
-> - [🧩 Modules](#-modules)
+> - [ Overview](#-overview)
+> - [ Features](#-features)
+> - [ Repository Structure](#-repository-structure)
+> - [ Modules](#-modules)
 > - [   Imge Architecture](#imge-architecture)
-> - [🚀 Getting Started](#-getting-started)
->   - [⚙️ Installation](#installation)
->   - [🤖 Running AMBA _3&4_ APB Protocol](#running-amba-34-apb-protocol)
-> - [🤝 Contributing](#-contributing)
-> - [👏 Acknowledgments](#-acknowledgments)
+> - [ Getting Started](#-getting-started)
+>   - [ Installation](#installation)
+>   - [ Running AMBA _3&4_ APB Protocol](#running-amba-34-apb-protocol)
+> - [ Contributing](#-contributing)
+> - [ Acknowledgments](#-acknowledgments)
 > - [Contact info](#contact-info)
 
 ---
 
-## 📍 Overview
+##  Overview
 
 The AMBA bus protocol is a widely used on-chip interconnect specification for the connection and management of functional blocks in a System-on-Chip (SoC). The APB (Advanced Peripheral Bus) is a simpler bus protocol, which is used for connecting lower-bandwidth peripherals to the higher-performance main system bus.
 
@@ -50,7 +50,7 @@ This project aims to provide a comprehensive implementation and verification of 
 
 ---
 
-## 📦 Features
+##  Features
 
 AMBA3 APB Protocol Features:
 
@@ -64,7 +64,7 @@ AMBA4 APB Protocol Features:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```sh
 └── Digital-Design-and-Verification-of-AMBA3-4-APB-Protocol/
@@ -107,7 +107,7 @@ AMBA4 APB Protocol Features:
 
 ---
 
-## 🧩 Modules
+##  Modules
 
 <details closed><summary>TCL</summary>
 
@@ -173,7 +173,7 @@ AMBA4 APB Protocol Features:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 > [!IMPORTANT]
@@ -214,7 +214,7 @@ AMBA4 APB Protocol Features:
 
 ---
 
-##  🤝 Contributing
+##   Contributing
 
 If you find any issues or have suggestions for improvement, feel free to submit a pull request or open an issue in the repository. Contributions are always welcome!
 
@@ -248,7 +248,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 ---
 
 
-## 👏 Acknowledgments
+##  Acknowledgments
 
 - [IHI0024C_amba_apb_protocol_spec](https://www.eecs.umich.edu/courses/eecs373/readings/IHI0024C_amba_apb_protocol_spec.pdf).
 
