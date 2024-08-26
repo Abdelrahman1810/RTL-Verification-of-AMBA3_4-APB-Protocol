@@ -23,6 +23,10 @@
 
 <hr>
 
+## Imge Architecture
+
+![SYSTEM LEVEL](https://drive.google.com/uc?export=view&id=1Zc0TdSCfvOOhvVbK8SGnrbww7v-4Sxda)
+
 ## 🔗 Quick Links
 
 > - [ Overview](#-overview)
@@ -101,11 +105,6 @@ AMBA4 APB Protocol Features:
 
 ---
 
-## Imge Architecture
-
-![Architecture](Documents/Architecture.jpg)
-
----
 
 ##  Modules
 
